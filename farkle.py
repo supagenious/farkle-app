@@ -19,7 +19,7 @@ import random
 class Player:
     name = 'player'
     number = 0
-    score = 0
+    score = 9999999999999999
     number_of_dice = 6
     number_face_up = 1 
 
